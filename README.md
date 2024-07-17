@@ -9,3 +9,8 @@ Gratitude can decrease depression, anxiety, difficulties with chronic pain and r
 Amanda Logan, APRN, C.N.P. has drawn such conviction from the research that she prescribes gratitude, and says if there were "a pill that could do this, everyone would be taking it."
 
 Gratitude aims to be that pill.
+
+## Initial meeting
+On activation, Gratitude starts by asking for a user's name, then sends the first daily message. Gratitude adopts to user preferences over time to become a moment of blissful reflection.
+
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/4eb856b8-1326-4cad-9ce2-cac6e384099c">
